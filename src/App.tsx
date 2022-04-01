@@ -1,5 +1,5 @@
 import './App.scss';
-import banner from '../assets/backgroundImg.png';
+import banner from './assets/backgroundImg.png';
 
 function App() {
   return (
